@@ -1,0 +1,31 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Streamlit Credentials/Cache
+~/.streamlit/
+streamlit/
+
+# Log Files
+*.log
+
+# Dependency Installers
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Secrets or Environment Variables
+.env
+*.json  # If you store API keys or config files
